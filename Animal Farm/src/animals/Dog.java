@@ -20,5 +20,9 @@ public class Dog
 	private String color;
 	private int age;
 	
+	public void bark()
+	{
+		System.out.println("woof");
+	}
 	
 }
